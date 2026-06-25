@@ -110,16 +110,25 @@ CleanHelper/
 
 ---
 
+## 下载
+
+请前往 [Releases](https://github.com/uangh66/CleanHelper/releases) 下载最新版本：
+
+- **Latest Release**: https://github.com/uangh66/CleanHelper/releases/latest
+- **推荐下载**：`CleanHelper-v1.0.0-win-x64.zip`
+
+下载后解压，双击 `CleanHelper.exe` 即可运行。
+
+> 说明：本项目为个人开源工具，未进行代码签名。首次运行时 Windows Defender / SmartScreen 可能出现安全提示，请确认来源后选择"仍要运行"。如不放心，可从源码自行构建。
+
+---
+
 ## 快速开始
 
 ### 运行环境
 
 - Windows 10 / 11 (x64)
-- [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)（框架依赖版需要）
-
-### 直接运行（推荐）
-
-从 [Releases](https://github.com/uangh66/CleanHelper/releases) 下载 `CleanHelper.exe`，双击即可运行，无需安装 .NET 运行时。
+- [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)（从源码构建时需要）
 
 ### 从源码构建
 
